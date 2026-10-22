@@ -1,0 +1,10 @@
+# Simple Interest Calculator
+
+This calculator calculates Simple Interest.
+
+Formula: Simple Interest = (principal * rate * time) / 100
+
+Where:
+principal = principal amount
+rate = annual rate of interest
+time = time period in years
